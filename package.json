@@ -1,0 +1,20 @@
+{
+  "name": "web-development-with-node-and-express",
+  "version": "0.0.0",
+  "description": "This is codes for Web Development with Node & Express.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "author": "Dong Hyeon Kim",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
